@@ -1,6 +1,21 @@
 <resources>
     <string name="app_name">FeedMe_GitHub</string>
+    <string name="title_activity_splash">SplashActivity</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="LogoDescription">FeedMe Logo with plate</string>
+    <string name="Splash_BottomText">Processes of Object Oriented Software 2015</string>
+    <string name="title_activity_blank_temp">BlankTempActivity</string>
+    <string name="title_activity_my_recipes">MyRecipes</string>
+    <string name="title_activity_scheduled_meals">ScheduledMeals</string>
+    <string name="title_activity_recipe_page">RecipePage</string>
+    <string name="RecipeText">Back to CookBook</string>
+    <string name="action_search">Search</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_calender">Calender</string>
+    <string name="action_cookbook">Cookbook</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_dropdown">Dropdown</string>
+    <string name="versionNum">V 7.0.3</string>
 </resources>
